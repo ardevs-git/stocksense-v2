@@ -1,0 +1,26 @@
+{
+  "short_name": "StockSense",
+  "name": "StockSense: Advanced Inventory Management",
+  "icons": [
+    {
+      "src": "/vite.svg",
+      "type": "image/svg+xml",
+      "sizes": "any"
+    },
+    {
+      "src": "https://raw.githubusercontent.com/google/material-design-icons/master/png/action/inventory_2/materialicons/192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "https://raw.githubusercontent.com/google/material-design-icons/master/png/action/inventory_2/materialicons/512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#3B82F6",
+  "background_color": "#F3F4F6",
+  "description": "An advanced inventory management software to handle product inward/outward operations, track stock levels in real-time, generate reports, and provide low-stock alerts with AI-powered purchase suggestions."
+}

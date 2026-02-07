@@ -1,0 +1,5 @@
+{
+  "name": " StockSense V6",
+  "description": "An advanced inventory management software to handle product inward/outward operations, track stock levels in real-time, generate reports, and provide low-stock alerts with AI-powered purchase suggestions. Features include multi-location support, role-based access, GST invoicing, and various integrations.",
+  "requestFramePermissions": []
+}
